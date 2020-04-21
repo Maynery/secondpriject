@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: url('../../fonts/montserrat.woff') format('woff');
+	font-weight: normal;
+    font-style: normal;
+
+}
+
+@mixin mont() {
+	font-family: 'Montserrat', Helvetica, sans-serif;
+}

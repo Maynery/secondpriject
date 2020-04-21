@@ -1,0 +1,22 @@
+//colors
+$red:#fa5c65;
+$black: #2f3234;
+
+//resolutions
+
+$phones: 480px;
+$tablets: 768px;
+$laptop: 992px;
+$desktop: 1200px;
+
+
+//setups
+@import "../_misc/normalize.scss";
+@import "../_misc/media.scss";
+@import "../_misc/mixins.scss";
+@import "../_misc/fonts.scss";
+
+//style
+@import "../blocks/hero.scss";
+@import "../blocks/future.scss";
+
